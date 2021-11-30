@@ -26,6 +26,9 @@
 //Link for Microsoft ODBC driver for sql server
 //
 //https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbXlCamVDUjhYZHpaci1Yc09fd2c1MzR0MHljQXxBQ3Jtc0tsdXNXSXQ1VVk1c3E2Q1Q2b3lCVUdvZ0NNZktnVGRDVEFlTjU1cDdJWUpSQ3RNenB0RjJ6endHNlZoY0hDSDNxRGswWDFNa0pDYUlmXzcyWXQzNl9PUHdYNTBXbVB3VC1BTkxiZHlWcDlWcTdCS3lYWQ&q=https%3A%2F%2Fwww.microsoft.com%2Fen-in%2Fdownload%2Fconfirmation.aspx%3Fid%3D36434
+
+//https://www.youtube.com/watch?v=4PCSg8ihPns
+
 ?>
 
 
